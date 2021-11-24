@@ -1,0 +1,85 @@
+.fl{ float: left;}
+.fr{ float: right;}
+.new{ 
+    float: left;
+    margin-left:  2%;
+}
+.bg1{ background-color: gray;}
+.bg2{ background-color:goldenrod;}
+.bg3{ background-color:pink;}
+.bg4{ background-color: greenyellow;}
+.clr{ clear: both;}
+.wrapper{
+    height: 750px;
+    
+}
+.box1{
+    height: 350px;
+    width: 49%;
+    margin-top: 1%;
+}
+.old1{
+    height: 350px;
+    width: 48%;
+}
+.old2{
+    height: 350px;
+    width: 48%;
+    
+}
+.gold{
+    height: 170px;
+    width: 48%;
+    float: right 1%;
+}
+
+.aashu{
+    height: 175px;
+ 
+
+}
+.aashu1{
+    height: 168px ;
+    margin-top: 2%;
+}
+.aashu2{
+    height: 150px;
+    width: 32%;
+}
+.aashu3{
+    height: 188px;
+    margin-top: 2%;
+    background-color: cornflowerblue;
+}
+.bottm{ margin-top: 3%;}
+.old3{
+    height: 350px;
+    width: 50%;
+    margin-top: 5%;
+}
+
+.div1{
+    height: 170px;
+    width: 49%;
+    
+}
+.div2{ height: 171px;
+margin-top: 1%;}
+.box2{
+    height: 340px;
+    width: 49%;
+    margin-top: 1%;
+}
+.box3{
+    height: 340px;
+    width: 49%;
+}
+.box4{
+    height: 150px;
+    width: 49%;
+}
+.lbox{
+    height: 180px;
+    margin-top: 2%;
+}
+
